@@ -39,11 +39,3 @@ The source code for our paper "[Exploring Dual-task Correlation for Pose Guided 
 * torchvision 0.8.2
 * CUDA 11.1
 * NVIDIA A100 40GB PCIe
-
-### 설치 단계
-```bash
-git clone [프로젝트 Git 저장소 URL]
-cd [프로젝트 디렉토리]
-pip install -r requirements.txt
-
-### 
